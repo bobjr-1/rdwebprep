@@ -1,7 +1,12 @@
 ## Crédit à la consommation
 
 * [Plan de travail](https://sites.google.com/site/rdwebprep/home/wikifin) *Wikifin*
-* [**Brochure**](http://economie.fgov.be/fr/binaries/Le_credit_a_la_consommation_tcm326-221772.pdf) après relecture en 2015 (mise en conformité : CDE)
+
+| Tâches |
+| --- |
+| [**Brochure**](http://economie.fgov.be/fr/binaries/Le_credit_a_la_consommation_tcm326-221772.pdf) après relecture en 2015 (mise en conformité : CDE) |
+| [Structure](Map.png) - identification des liens avec *Wikifin* et le site du SPF |
+| Développé de la [**structure**](CCom_Develop.pdf) en vue d'une réécriture web de la brochure |
 
 ## Guidance
 
