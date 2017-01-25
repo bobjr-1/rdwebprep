@@ -1,3 +1,9 @@
+## Arnaque ("*Fraud Prevention Month*")
+
+* Comment établir une structure ? [**Logique**](Mail_20151218.pdf) pour les fiches
+* [&Eacute;laboration des fiches](Contents_Fiches_FPM.pdf) les 8 et février 2016
+* [**Fiches disponibles en *Live***](http://economie.fgov.be/fr/modules/publications/general/stop_aux_arnaques_.jsp) depuis le 14 mars 2016
+
 ## Carburant *E10* (proposition de page web)
 
 * [proposition du 5 avril 2016](Prop_web_E10.pdf)
