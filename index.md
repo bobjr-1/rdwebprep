@@ -3,13 +3,13 @@
 * Comment établir une structure ? [**Logique**](Mail_20151218.pdf) pour les fiches
 * [&Eacute;laboration des fiches](Contents_Fiches_FPM.pdf) les 8 et 9 février 2016
 * [**Fiches disponibles en *Live***](http://economie.fgov.be/fr/modules/publications/general/stop_aux_arnaques_.jsp) depuis le 14 mars 2016
+* **Le produit fini est identique à la conception des fiches.**
 
 ## Carburant *E10* (proposition de page web)
 
 * [proposition de **structure** du 5 avril 2016](Prop_web_E10.pdf)
 * [Page publiée en *Live* et communiqué de presse](http://economie.fgov.be/fr/modules/pressrelease/s4/20161219_95e10.jsp?referer=tcm:326-281608-64) du 19 décembre 2016
-
-> Le produit fini est identique à la proposition de structure.
+* **Le produit fini est identique à la proposition de structure.**
 
 ## Crédit à la consommation
 
@@ -21,6 +21,8 @@
 | [Structure](Map.png) - identification des liens avec *Wikifin* et le site du SPF |
 | Développé de la [**structure**](CCom_Develop.pdf) en vue d'une réécriture web de la brochure |
 | [Rapport de la réunion](Rapport_Meeting_20160119.pdf) du 19 janvier 2016 "*Les jeunes et l'argent*" |
+
+* **L'objectif a été suspendu en raison de la charge de travail "*Empowerment*".**
 
 ## Empowerment
 
@@ -37,6 +39,17 @@
 | Construire ou rénover | [restructuration proposée](https://sites.google.com/site/rdwebprep/level-e5-construction) | [**Pour ma maison : je fais valoir mes droits**](https://github.com/bobjr-1/rdwebprep/wiki/Home---Construction)<br>6 pages x 4 composants |
 | Garantie | [restructuration proposée](https://sites.google.com/site/rdwebprep/work/level_1/level_e6) | [**Garantie : je fais valoir mes droits**](https://github.com/bobjr-1/rdwebprep/wiki/Home---Garantie)<br>14 pages x 4 composants |
 | Petits litiges en Europe | [restructuration proposée](https://sites.google.com/site/rdwebprep/level-e7-litiges-en-europe) | [**Mon achat à l'étranger se passe mal ...**](https://github.com/bobjr-1/rdwebprep/wiki/Home---Europe)<br>2 pages x 4 composants |
+
+* **Les 560 composants (FR+NL) sont consultables en "*Preview*".**
+* **Présentation a été faite auprès du DG E7** le 1er décembre 2016.
+
+| Conventions web utilisées dans le projet |
+| --- |
+| [*Speaking Points* de l'exposé du 1er décembre 2016](C:\Users\RDumoulin\Documents\GitHub\rdwebprep\Conventions_web_Empowerment_2016.html) |
+| [**Conseils disponibles en ligne**](https://github.com/bobjr-1/rdwebprep/wiki/Conseils-de-r%C3%A9daction) - signalé à l'Atelier du 13 septembre 2016 |
+| Projet de [brochure pour les rédacteurs](Guidance_Conseils.pdf) "*Guidance*" (décembre 2015) |
+
+* **S4 a ainsi permis à E7 de respecter son *Benchmark* du contrat d'administration.**
 
 ## Guidance
 
