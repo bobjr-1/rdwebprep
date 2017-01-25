@@ -10,7 +10,8 @@
 
 ## Guidance
 
-* [**Plan de travail**](https://sites.google.com/site/rdwebprep/home/guidance)
+* [Plan de travail](https://sites.google.com/site/rdwebprep/home/guidance)
+* Aperçu des travaux effectués en [**Preview**](Preview_Guidance.pdf) en 2015
 
 | Thématiques | Actions |
 | --- | --- |
