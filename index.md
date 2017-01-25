@@ -1,6 +1,6 @@
 ## Carburant *E10* (proposition de page web)
 
-* [proposition du 5 avril 2016](Rapport_annuel_2015.pdf)
+* [proposition du 5 avril 2016](Prop_web_E10.pdf)
 
 ## Crédit à la consommation
 
@@ -12,6 +12,21 @@
 | [Structure](Map.png) - identification des liens avec *Wikifin* et le site du SPF |
 | Développé de la [**structure**](CCom_Develop.pdf) en vue d'une réécriture web de la brochure |
 | [Rapport de la réunion](Rapport_Meeting_20160119.pdf) du 19 janvier 2016 "*Les jeunes et l'argent*" |
+
+## Empowerment
+
+* [**Plan de travail**](https://sites.google.com/site/rdwebprep/home/empowerment)
+
+| Thématiques | Actions | Composants web créés |
+| --- | --- | --- |
+| Le cycle de l'achat | [restructuration proposée](https://sites.google.com/site/rdwebprep/work/level_1/level_e1-cycle-de-l-achat) | [**Ik start mijn aankoop verstandig!**](https://github.com/bobjr-1/rdwebprep/wiki/Ik-start-mijn-aankoop-verstandig)<br>17 pages x 4 composants |
+| &nbsp; | &nbsp; | [**Ik wens mijn koop te annuleren of te verbreken**](https://github.com/bobjr-1/rdwebprep/wiki/Ik-wens-de-koop-te-annuleren-of-te-verbreken)<br>11 pages x 4 composants |
+| &nbsp; | &nbsp; | [**Problemen met mijn factuur**](https://github.com/bobjr-1/rdwebprep/wiki/Problemen-met-mijn-factuur)<br>12 pages x 4 composants |
+| &nbsp; | &nbsp; | [**Ik wens mijn abonnement te schorsen of op te zeggen**](https://github.com/bobjr-1/rdwebprep/wiki/Ik-wens-mijn-abonnement-te-schorsen-of-op-te-zeggen)<br>4 pages x 4 composants |
+| BCE - Consommateurs | &nbsp; | [**Grâce à la BCE, je fais valoir mes droits !**](https://github.com/bobjr-1/rdwebprep/wiki/Home---BCE)<br>4 pages x 4 composants |
+| Construire ou rénover | [restructuration proposée](https://sites.google.com/site/rdwebprep/level-e5-construction) | [**Pour ma maison : je fais valoir mes droits**](https://github.com/bobjr-1/rdwebprep/wiki/Home---Construction)<br>6 pages x 4 composants |
+| Garantie | [restructuration proposée](https://sites.google.com/site/rdwebprep/work/level_1/level_e6) | [**Garantie : je fais valoir mes droits**](https://github.com/bobjr-1/rdwebprep/wiki/Home---Garantie)<br>14 pages x 4 composants |
+| Petits litiges en Europe | [restructuration proposée](https://sites.google.com/site/rdwebprep/level-e7-litiges-en-europe) | [**Mon achat à l'étranger se passe mal ...**](https://github.com/bobjr-1/rdwebprep/wiki/Home---Europe)<br>2 pages x 4 composants |
 
 ## Guidance
 
@@ -29,10 +44,6 @@
 | Droit de rétractation | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/14) |
 | Comment annoncer vos réductions de prix (secteur automobile) | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/15) |
 | Reconduction tacite des contrats | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/16) |
-
-## Empowerment
-
-* [**Plan de travail**](https://sites.google.com/site/rdwebprep/home/empowerment)
 
 ## Rapport annuel (statistiques de fréquentation)
 
