@@ -68,6 +68,8 @@
 | Comment annoncer vos réductions de prix (secteur automobile) | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/15) |
 | Reconduction tacite des contrats | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/16) |
 
+* **[En septembre 2016](Mail_20160906.pdf), une proposition de mise en valeur du projet a été faite, à la demande de Mme Godin et M. Baeyens.** Cette proposition n'a pas été suivie par E7.
+
 ## Rapport annuel (statistiques de fréquentation)
 
 * [Rapport d'orientation 2015](Rapport_annuel_2015.pdf) - transmis le 25 janvier 2016
