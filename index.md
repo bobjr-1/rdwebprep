@@ -6,15 +6,18 @@
 ## Guidance
 
 * [**Plan de travail**](https://sites.google.com/site/rdwebprep/home/guidance)
-* [Thème #02](https://sites.google.com/site/rdwebprep/work/level_1/02) : textes retravaillés
-* [**Thème #02**](http://economie.fgov.be/fr/entreprises/Guidance/Societes_de_gestion_de_droits) : textes publiés en *Live*
-* [Thème #03](https://sites.google.com/site/rdwebprep/work/level_1/03) : textes retravaillés
-* [Thème #04](https://sites.google.com/site/rdwebprep/work/level_1/04) : textes retravaillés
-* [Thème #07](https://sites.google.com/site/rdwebprep/work/level_1/07) : textes retravaillés
-* [Thème #08](https://sites.google.com/site/rdwebprep/work/level_1/08) : textes retravaillés
-* [Thème #14](https://sites.google.com/site/rdwebprep/work/level_1/14) : textes retravaillés
-* [Thème #15](https://sites.google.com/site/rdwebprep/work/level_1/15) : textes retravaillés
-* [Thème #16](https://sites.google.com/site/rdwebprep/work/level_1/16) : textes retravaillés
+
+| Thématiques | Actions |
+| --- | --- |
+| Nouvelles obligations comptables des sociétés de gestions de droits | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/02) |
+| &nbsp; | [**textes publiés en *Live* **](http://economie.fgov.be/fr/entreprises/Guidance/Societes_de_gestion_de_droits) |
+| Annonces de réduction de prix dans le secteur automobile | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/03) |
+| Cliquer, c'est payer ! | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/04) |
+| Prévenez votre contentieux client | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/07) |
+| Paiements en liquide en euro | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/08) |
+| Droit de rétractation | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/14) |
+| Comment annoncer vos réductions de prix (secteur automobile) | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/15) |
+| Reconduction tacite des contrats | [textes retravaillés](https://sites.google.com/site/rdwebprep/work/level_1/16) |
 
 ## Empowerment
 
