@@ -1,12 +1,15 @@
 ## Arnaque ("*Fraud Prevention Month*")
 
 * Comment établir une structure ? [**Logique**](Mail_20151218.pdf) pour les fiches
-* [&Eacute;laboration des fiches](Contents_Fiches_FPM.pdf) les 8 et février 2016
+* [&Eacute;laboration des fiches](Contents_Fiches_FPM.pdf) les 8 et 9 février 2016
 * [**Fiches disponibles en *Live***](http://economie.fgov.be/fr/modules/publications/general/stop_aux_arnaques_.jsp) depuis le 14 mars 2016
 
 ## Carburant *E10* (proposition de page web)
 
-* [proposition du 5 avril 2016](Prop_web_E10.pdf)
+* [proposition de **structure** du 5 avril 2016](Prop_web_E10.pdf)
+* [Page publiée en *Live* et communiqué de presse](http://economie.fgov.be/fr/modules/pressrelease/s4/20161219_95e10.jsp?referer=tcm:326-281608-64) du 19 décembre 2016
+
+> Le produit fini est identique à la proposition de structure.
 
 ## Crédit à la consommation
 
