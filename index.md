@@ -45,7 +45,7 @@
 
 | Conventions web utilisées dans le projet |
 | --- |
-| [*Speaking Points* de l'exposé du 1er décembre 2016](C:\Users\RDumoulin\Documents\GitHub\rdwebprep\Conventions_web_Empowerment_2016.html) |
+| [*Speaking Points* de l'exposé du 1er décembre 2016](http://bobjr-1.github.io/rdwebprep/Conventions_web_Empowerment_2016.html) |
 | [**Conseils disponibles en ligne**](https://github.com/bobjr-1/rdwebprep/wiki/Conseils-de-r%C3%A9daction) - signalé à l'Atelier du 13 septembre 2016 |
 | Projet de [brochure pour les rédacteurs](Guidance_Conseils.pdf) "*Guidance*" (décembre 2015) |
 
