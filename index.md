@@ -16,6 +16,7 @@
 ## Empowerment
 
 * [**Plan de travail**](https://sites.google.com/site/rdwebprep/home/empowerment)
+* Comment établir une structure ? les [**QUI-QUOI-QUAND-COMMENT**](Movies.zip) : films du 8 mai 2016
 
 | Thématiques | Actions | Composants web créés |
 | --- | --- | --- |
