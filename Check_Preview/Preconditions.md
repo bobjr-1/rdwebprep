@@ -1,7 +1,8 @@
 ## Empowerment
 
 * [**Plan de travail**](https://sites.google.com/site/rdwebprep/home/empowerment)
-* Comment établir une structure ? les [**QUI-QUOI-QUAND-COMMENT**](Movies.zip) : films du 8 mai 2016
+* [**Réunion *Kick-Off* du 13 avril 2016**](Empowerment_20160413_Debriefing.pdf)<br>le [fil rouge](empowerment_fil_rouge.png) avait été transmis en interne à S4 le 16.03.2016<br>le PV du *Kick-Off* a été envoyé le 15.04.2016
+* Comment établir une structure ?<br>les [**QUI-QUOI-QUAND-COMMENT**](Movies.zip) : films du 8 mai 2016 (garantie)
 
 | Thématiques | Actions | Composants web créés |
 | --- | --- | --- |
