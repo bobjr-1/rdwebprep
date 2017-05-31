@@ -6,6 +6,9 @@
 
 ### Pages de Niveau 2
 
+* [à l'amiable](etranger_amiable.doc)
+* [petites litiges transfrontaliers](etranger_transfront.doc)
+
 ---
 
 ## Achats à l'étranger NL
