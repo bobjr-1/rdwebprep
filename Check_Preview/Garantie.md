@@ -1,10 +1,10 @@
-## Garantie
+## Garantie FR
 
 ### Page de Niveau 1
 
 * [Portail](portail_garantie_FR.doc)
 * [ce que je dois avant tout savoir](garantie_savoir_avant_tout.doc)
-* comment en général faire valoir mes droits
+* [comment en général faire valoir mes droits](garantie_faire_valoir_mes_droits.doc)
 
 ### Pages de Niveau 2
 
@@ -22,4 +22,10 @@
 
 ### Pages de Niveau 3
 
+* [garanties complémentaires](garantie_garanties_complementaires.doc)
+* [garanties commerciales](garantie_garanties_commerciales.doc)
+
+---
+
+## Garantie NL
 
