@@ -8,7 +8,7 @@
 
 ---
 
-## Garantie NL
+## Achats à l'étranger NL
 
 ### Page de Niveau 1
 
