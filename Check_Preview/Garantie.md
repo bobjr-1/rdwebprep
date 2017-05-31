@@ -6,7 +6,7 @@
 * [ce que je dois avant tout savoir](garantie_savoir_avant_tout.doc)
 * comment en général faire valoir mes droits
 
-## Pages de Niveau 2
+### Pages de Niveau 2
 
 * [en cas de livraison](garantie_en_cas_de_livraison.doc)
 * [en cas de défaut](garantie_en_cas_de_defaut_doc)
@@ -18,4 +18,8 @@
 * [si la garantie ne s'applique pas ou plus](garantie_pas_de_garantie.doc)
 * [produit soldé](garantie_soldes.doc)
 * [achat dans le cadre de la vie professionnelle](garantie_pour_ma_societe.doc)
-* en ligne sur internet
+* [en ligne sur internet](garantie_a_distance.doc)
+
+### Pages de Niveau 3
+
+
