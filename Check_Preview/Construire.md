@@ -7,7 +7,7 @@
 ### Pages de Niveau 2
 
 * [conseils pour bien acheter](construire_bien_acheter.doc)
-* [entrepreneur agréé](construire_entrepreneur_agree_doc)
+* [entrepreneur agréé](construire_entrepreneur.agree_doc)
 * [compétences professionnelles](construire_competences.doc)
 * [protégé par la Loi Breyne](construire_Breyne.doc)
 * [réception provisoire](construire_reception_provisoire.doc)
