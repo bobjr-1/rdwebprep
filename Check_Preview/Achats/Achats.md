@@ -13,6 +13,11 @@
 
 ### Pages de Niveau 3 (Partie A)
 
+* [je me renseigne](A_je_me_renseigne.doc) avant d'acheter
+* avant de gros travaux, [je demande un devis](A_devis.doc)
+* je demande confirmation en cas de [modification de l'offre de prix](A_modification_offre_de_prix.doc)
+* [quand faut-il un écrit ?](A_quand_un_ecrit.doc)
+
 ### Pages de Niveau 3 (Partie B)
 
 ### Pages de Niveau 3 (Partie C)
