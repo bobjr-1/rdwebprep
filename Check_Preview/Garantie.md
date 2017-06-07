@@ -8,7 +8,7 @@
 
 ### Pages de Niveau 2
 
-* [en cas de livraison](garantie_en_cas_de_livraison.doc)
+* [en cas de livraison](garantie_en_cas_delivraison.doc)
 * [en cas de défaut](garantie_en_cas_de_defaut.doc)
 * [dans les six premiers mois](garantie_6_mois.doc)
 * [après plus de six mois](garantie_apres_6_mois.doc)
@@ -22,7 +22,7 @@
 
 ### Pages de Niveau 3
 
-* [garanties complémentaires](garantie_garanties_complementaires.doc)
+* [aanvullende garanties](garantie_aanvullende_garanties.doc)
 * [garanties commerciales](garantie_garanties_commerciales.doc)
 
 ---
@@ -33,7 +33,7 @@
 
 * [Portail](portail_garantie_NL.doc)
 * [wat ik vooral moet weten](garantie_weten.doc)
-* [comment en général faire valoir mes droits](garantie_faire_valoir_mes_droits.doc)
+* [mijn rechten afdwingen](garantie_rechten_afdwingen.doc)
 
 ### Pages de Niveau 2
 
@@ -51,5 +51,5 @@
 
 ### Pages de Niveau 3
 
-* [garanties complémentaires](garantie_garanties_complementaires.doc)
+* garanties complémentaires
 * [garanties commerciales](garantie_garanties_commerciales.doc)
