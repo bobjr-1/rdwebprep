@@ -36,7 +36,7 @@
 
 * [résilier](D_resiliation_abonnement.doc) mon abonnement
 * quels sont mes [droits légaux](D_droits_legaux.doc) ?
-* je veux [suspondre mon abonnement](D_suspension_abonnement.doc)
+* je veux [suspendre mon abonnement](D_suspension_abonnement.doc)
 * [reconduction tacite](D_reconduction_tacite.doc)
 * en cas de [hausse de prix](D_hausse_prix.doc) non contractuelle
 
