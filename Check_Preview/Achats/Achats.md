@@ -17,6 +17,9 @@
 * avant de gros travaux, [je demande un devis](A_devis.doc)
 * je demande confirmation en cas de [modification de l'offre de prix](A_modification_offre_de_prix.doc)
 * [quand faut-il un écrit ?](A_quand_un_ecrit.doc)
+* je conclus des [engagements clairs](A_date_et_delai.doc) quant aux dates et délais
+* [pour des sommes importantes](A_sommes_importantes.doc)
+* [respect des délais](A_respect_delai.doc) par le vendeur
 
 ### Pages de Niveau 3 (Partie B)
 
