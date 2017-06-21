@@ -28,6 +28,10 @@
 
 ### Pages de Niveau 3 (Partie C)
 
+* invoquer la [prescription](C_prescription.doc)
+* contestation de [travaux d'entreprise](C_travaux_entreprise.doc)
+* en cas de [faillite](C_faillite.doc)
+
 ### Pages de Niveau 3 (Partie D)
 
 
