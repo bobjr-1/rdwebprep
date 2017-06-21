@@ -23,6 +23,9 @@
 
 ### Pages de Niveau 3 (Partie B)
 
+* achat sous réserve de [financement](B_financement.doc)
+* [refus de livraison](B_refus_livraison.doc)
+
 ### Pages de Niveau 3 (Partie C)
 
 ### Pages de Niveau 3 (Partie D)
