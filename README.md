@@ -8,6 +8,7 @@ Les projets web destinés au Département
 * Empowerment : [BCE (consommateurs)](http://bobjr-1.github.io/rdwebprep/Check_Preview/BCE_B2B.html)
 * Empowerment : [construire ou rénover ma maison](http://bobjr-1.github.io/rdwebprep/Check_Preview/Construire.html)
 * Empowerment : [cycle de l'achat](http://bobjr-1.github.io/rdwebprep/Check_Preview/Achats/Achats.html)
-* Empowerment : [garantie](http://bobjr-1.github.io/rdwebprep/Check_Preview/Garantie.html)
+* Empowerment : [garantie](http://bobjr-1.github.io/rdwebprep/Check_Preview/Garantie.html)<br>&nbsp;
+* [Backup](http://bobjr-1.github.io/rdwebprep/Backup/Backup.html)
 
 
