@@ -2,15 +2,15 @@
 
 <script src="plotly-latest.min.js"></script>
 
-<div id="Div1" style="display: inline; width: 240px; height: 200px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+<div id="Div1"><!-- Plotly chart will be drawn inside this DIV --></div>
 
-<div id="Div2" style="display: inline; width: 240px; height: 200px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+<div id="Div2"><!-- Plotly chart will be drawn inside this DIV --></div>
 
   <script>
 var data = [{
         type: 'scattergeo',
         mode: 'markers',
-        locations: ['FRA', 'DEU', 'RUS', 'ESP'],
+        locations: ['FRA', 'DEU', 'RUS', 'BEL'],
         marker: {
             size: [20, 30, 15, 10],
             color: [10, 20, 40, 50],
