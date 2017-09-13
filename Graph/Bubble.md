@@ -10,7 +10,8 @@ var trace = [{
   y: [1, 2, 3],
   marker: {
   	color: [’red’,’blue’],
-	size: [20, 50, 80]}, mode : ’markers’};
+	size: [20, 50, 80], 
+	mode : ’markers’};
 }];
 
 Plotly.plot('myDiv', [trace]);
