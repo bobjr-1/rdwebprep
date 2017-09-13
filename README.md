@@ -11,4 +11,8 @@ Les projets web destinés au Département
 * Empowerment : [garantie](http://bobjr-1.github.io/rdwebprep/Check_Preview/Garantie.html)<br>&nbsp;
 * [Backup](http://bobjr-1.github.io/rdwebprep/Backup/Backup.html)
 
+----
+
+Réalisation de graphiques : [template](http://bobjr-1.github.io/rdwebprep/Graph/Graph.html)
+
 
