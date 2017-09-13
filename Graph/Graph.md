@@ -1,10 +1,11 @@
 ## Réalisation de graphiques
 
-### Template
+| Templates |
+| --- |
+| [**Line Chart**](Line.md) |
+| [**Bar Chart**](Bar.md) |
+| [**Bar Chart** (multiple)](Bar_Group.md) |
 
-| &nbsp; | &nbsp; |
-| --- | --- |
-| [**Line Chart**](Template.md) | [**Bar Chart**](Bar.md) |
 
 ### Exemples 
 
