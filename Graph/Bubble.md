@@ -10,11 +10,9 @@ var trace = [{
   y: [1, 2, 3],
   marker: {
   	color: [’red’,’blue’],
-	size: [20, 50, 80]
-  },
-  mode : ’markers’;
+	size: [20, 50, 80]}, mode : ’markers’};
 }];
 
-Plotly.newPlot('myDiv', trace);
+Plotly.newPlot('myDiv', [trace]);
   </script>
 
