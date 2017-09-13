@@ -2,10 +2,10 @@
 
 ### Template
 
-| [**Template**](Template.md) |
-| --- |
-| cliquer ci-dessus pour tester le template |
+| &nbsp; | &nbsp; |
+| --- | --- |
+| [**Line Chart**](Template.md) | [**Bar Chart**](Bar.md) |
 
-### Exemples (HTML)
+### Exemples 
 
-* Bar.html
+
