@@ -1,23 +1,10 @@
 ## Template Map
 
-<style>
-#Div1 {
-display: inline;
-width: 240px;
-height: 200px;
-}
-
-#Div2 {
-display: inline;
-width: 240px;
-height: 200px;
-}
-</style>
 <script src="plotly-latest.min.js"></script>
 
-<div id="Div1"><!-- Plotly chart will be drawn inside this DIV --></div>
+<div id="Div1" style="display: inline; width: 240px; height: 200px;"><!-- Plotly chart will be drawn inside this DIV --></div>
 
-<div id="Div2"><!-- Plotly chart will be drawn inside this DIV --></div>
+<div id="Div2" style="display: inline; width: 240px; height: 200px;"><!-- Plotly chart will be drawn inside this DIV --></div>
 
   <script>
 var data = [{
