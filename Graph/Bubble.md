@@ -13,6 +13,6 @@ var trace = [{
 	size: [20, 50, 80]}, mode : ’markers’};
 }];
 
-Plotly.newPlot('myDiv', [trace]);
+Plotly.plot('myDiv', [trace]);
   </script>
 
