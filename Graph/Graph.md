@@ -9,9 +9,8 @@
 | [**Bar Chart** (stacked)](Bar_Stack.md) |
 | [**Pie Chart**](Pie.md) |
 | [**Donut Chart** (multiple)](Donut.md) |
-| [**Bubble Chart**](Bubble.md) |
 
 
 ### Exemples 
 
-* [**Carte de l'Europe**](Map.md) (avec bulles pour 4 pays)
+* [**Carte de l'Europe**](Map.md) (avec bulles pour 4 pays) - ( [avec table](Map_Table.md) )
