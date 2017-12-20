@@ -1,6 +1,6 @@
 # Revue de l'année 2017
 
-* [**&Agrave; lire ici**](http://bobjr-1.github.io/rdwebprep/2017/Revue.html)
+* <mark>&nbsp;NEW&nbsp;</mark> [**&Agrave; lire ici**](http://bobjr-1.github.io/rdwebprep/2017/Revue.html)
 
 # Revue de l'année 2016
 
