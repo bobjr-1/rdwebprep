@@ -2,10 +2,11 @@
 
 Les projets web destinés au Département
 
-* Lien général vers le *Github* **[http://bobjr-1.github.io/rdwebprep/](http://bobjr-1.github.io/rdwebprep/)**
-    * [Revue 2016](http://bobjr-1.github.io/rdwebprep/)
-    * [Revue 2017](http://bobjr-1.github.io/rdwebprep/2017/Revue.html)
+* Lien général vers le *Github* **[http://bobjr-1.github.io/rdwebprep/](http://bobjr-1.github.io/rdwebprep/)**  
+&#x25C9; [Revue 2016](http://bobjr-1.github.io/rdwebprep/)  
+&#x25C9; [Revue 2017](http://bobjr-1.github.io/rdwebprep/2017/Revue.html)
 
+---
 
 * Empowerment : [considérations générales](http://bobjr-1.github.io/rdwebprep/Check_Preview/Preconditions.html)
 * Empowerment : [achats à l'étranger](http://bobjr-1.github.io/rdwebprep/Check_Preview/Achats_etranger.html)
