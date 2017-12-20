@@ -5,6 +5,7 @@ Les projets web destinés au Département
 * Lien général vers le *Github* **[http://bobjr-1.github.io/rdwebprep/](http://bobjr-1.github.io/rdwebprep/)**  
 &#x25C9; [Revue 2016](http://bobjr-1.github.io/rdwebprep/)  
 &#x25C9; [Revue 2017](http://bobjr-1.github.io/rdwebprep/2017/Revue.html)
+* [Lien vers le *Wiki* **Empowerment**](https://github.com/bobjr-1/rdwebprep/wiki)
 
 ---
 
