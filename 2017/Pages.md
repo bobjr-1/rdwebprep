@@ -15,6 +15,11 @@
 | 27 | https://ondernemingsdatabank.indicator.be/ | [66 pages](027-ondernemingsdatabank.pdf) | &nbsp; |
 | 30 | https://www.propaangas.be/ | [2 pages](030-propaangas.pdf) | &nbsp; |
 | 32 | http://e10.febiac.be/ | [2 pages](032-e10-febiac.pdf) | &nbsp; |
+| 33 | http://bruxelles-j.be/ | [8 pages](033-bruxelles-j.pdf) | &nbsp; |
+| 34 | http://ibz.rrn.fgov.be// | [7 pages](034-ibz-rrn.pdf) | ?serveur *down*? |
+| 35 | http://www.landbouwgrondtekoop.be/ | [1 page](035-landbouwgrond.pdf) | &nbsp; |
+| 36 | http://armoedebestrijding.be/ | [11 pages](036-armoede.pdf) | &nbsp; |
+
 
 
 
