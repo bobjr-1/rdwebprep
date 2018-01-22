@@ -15,3 +15,7 @@
 * [décembre - janvier 2018](2017-12_2018-01.pdf)
 
 ## Drupal
+
+## *Referrals*
+
+Pour avertir les tenants de [**sites tiers**](Pages.md) qui *pointent* vers le Site (Top500 du 01.01.2017 au 14.01.2018)
