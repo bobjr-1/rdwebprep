@@ -16,6 +16,8 @@
 
 ## Drupal
 
+Voici l'[ensemble des pages](Arborescence_New_Internet_Fr.pdf) qui ont été introduites dans l'interface *Drupal* par une quinzaine d'agents de S4 du 01.10.2017 au 20.12.2017 (16h)
+
 * Les pages que j'ai composées dans les deux langues sont mentionnées en rose
     * il convient d'indiquer que les pages *Empowerment* ne sont pas 5 comme à la page x du PDF, mais 78 (x2 langues) ;
     * il convient d'indiquer que les pages *Recueil de brevets* ne sont pas 1 comme à la page x du PDF mais 17 (x2 langues) ;
