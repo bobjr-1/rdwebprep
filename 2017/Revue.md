@@ -11,10 +11,10 @@
 * [mai](2017-05.pdf) : incorporation des remarques de Ph. Maes (E7)
 * [juin](2017-06.pdf) : OK de E7 pour publication ; blocage à S4 (*taalfouten* des traducteurs E7 ; "vous" au lieu de "je")
 * [juillet - août](2017-07_2017-08.pdf) : Gaz L to H ; retard dans la relecture *Empowerment* par S4 ; 2ème demande de suivre la formation *Drupal*<br>&clubs;&rarr; ancre vers la [page 28 de la correspondance](aout_p28.pdf) de juillet-août
-* [septembre](2017-09.pdf)
-* [octobre](2017-10.pdf)
-* [novembre](2017-10.pdf)
-* [décembre - janvier 2018](2017-12_2018-01.pdf)
+* [septembre](2017-09.pdf) : validation des pages le 08.09 ; tout dans Tridion le 19.09<br>&clubs;&rarr; ancre vers la [page 19 de la correspondance](septembre_p19.pdf) de juillet-août
+* [octobre](2017-10.pdf) : *Drupal*
+* [novembre](2017-10.pdf) : *Drupal*
+* [décembre - janvier 2018](2017-12_2018-01.pdf) : *Drupal* ; traitement des *Error 404*
 
 ## Drupal
 
