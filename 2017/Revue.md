@@ -19,9 +19,16 @@
 Voici l'[ensemble des pages](Arborescence_New_Internet_Fr.pdf) qui ont été introduites dans l'interface *Drupal* par une quinzaine d'agents de S4 du 01.10.2017 au 20.12.2017 (16h)
 
 * Les pages que j'ai composées dans les deux langues sont mentionnées en rose
-    * il convient d'indiquer que les pages *Empowerment* ne sont pas 5 comme à la page x du PDF, mais 78 (x2 langues) ;
-    * il convient d'indiquer que les pages *Recueil de brevets* ne sont pas 1 comme à la page x du PDF mais 17 (x2 langues) ;
-    * il convient d'indiquer que les pages *Tables des brevets* ne sont pas 1 comme à la page 14 du PDF mais 17 (x2 langues) ;
+    * il convient d'indiquer que les pages *Empowerment* ne sont pas 6 comme à la page 4 du PDF, mais 78 (x2 langues) ;
+    * il convient d'indiquer que les pages *Recueil de brevets* ne sont pas 1 comme à la page 19 du PDF mais 17 (x2 langues) ;
+    * il convient d'indiquer que les pages *Tables des brevets* ne sont pas 1 comme à la page 19 du PDF mais 14 (x2 langues) ;
+
+&Eacute;tant présent tous les jours (ou quasiment), je considère avoir apporté une contribution considérable :
+
+* à la confection des contenus (en volume) ;
+* au respect des délais ;
+* à la remontée du signalement des erreurs de conception *Blue4You* ;
+* aux corrections qu'il était possible d'apporter au niveau de l'introduction du site.
 
 ## *Referrals*
 
