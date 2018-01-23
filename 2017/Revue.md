@@ -7,7 +7,7 @@
 * [janvier](2017-01.pdf) : *Empowerment*
 * [février](2017-02.pdf) : fiches arnaques, *Empowerment*, délais de rétractation (*Guidance*)
 * [mars](2017-03.pdf) : Atelier *Empowerment* (droits d'auteur + BCE "B2B")
-* [avril](2017-04.pdf) : *Empowerment*, demande de suivre la formation *Fedict/Drupal*
+* [avril](2017-04.pdf) : *Empowerment*, demande de suivre la formation *Fedict/Drupal*<br>ancre vers la [page 38 de la correspondance](avril_p38.pdf) d'avril
 * [mai](2017-05.pdf)
 * [juin](2017-06.pdf)
 * [juillet - août](2017-07_2017-08.pdf)
