@@ -7,10 +7,10 @@
 * [janvier](2017-01.pdf) : *Empowerment*
 * [février](2017-02.pdf) : fiches arnaques, *Empowerment*, délais de rétractation (*Guidance*)
 * [mars](2017-03.pdf) : Atelier *Empowerment* (droits d'auteur + BCE "B2B")
-* [avril](2017-04.pdf) : *Empowerment*, demande de suivre la formation *Fedict/Drupal*<br>ancre vers la [page 38 de la correspondance](avril_p38.pdf) d'avril
-* [mai](2017-05.pdf)
-* [juin](2017-06.pdf)
-* [juillet - août](2017-07_2017-08.pdf)
+* [avril](2017-04.pdf) : *Empowerment*, demande de suivre la formation *Fedict/Drupal*<br>&clubs;&rarr; ancre vers la [page 38 de la correspondance](avril_p38.pdf) d'avril
+* [mai](2017-05.pdf) : incorporation des remarques de Ph. Maes (E7)
+* [juin](2017-06.pdf) : OK de E7 pour publication ; blocage à S4 (*taalfouten* des traducteurs E7 ; "vous" au lieu de "je")
+* [juillet - août](2017-07_2017-08.pdf) : Gaz L to H ; retard dans la relecture *Empowerment* par S4 ; 2ème demande de suivre la formation *Drupal*<br>&clubs;&rarr; ancre vers la [page 28 de la correspondance](aout_p28.pdf) de juillet-août
 * [septembre](2017-09.pdf)
 * [octobre](2017-10.pdf)
 * [novembre](2017-10.pdf)
