@@ -2,8 +2,10 @@
 
 ## Correspondance échangée
 
-* [janvier](2017-01.pdf)
-* [février](2017-02.pdf)
+> avec les thèmes principaux traités pendant la période de question.
+
+* [janvier](2017-01.pdf) : *Empowerment*
+* [février](2017-02.pdf) : fiches arnaques, *Empowerment*, délais de rétractation (*Guidance*)
 * [mars](2017-03.pdf)
 * [avril](2017-04.pdf)
 * [mai](2017-05.pdf)
